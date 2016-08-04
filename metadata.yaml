@@ -1,0 +1,41 @@
+_repo: The-Works-of-Edgar-Allan-Poe---Volume-2_2148
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_bookshelf:
+- Detective Fiction
+- Gothic Fiction
+- Horror
+- Mystery Fiction
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Horror tales, American'
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'American fiction -- 19th century'
+- GITenberg
+tableOfContents: 'The purloined letter -- The thousand-and-second tale of Scheherezade
+  -- A descent into the Maelström -- Von Kempelen and his discovery -- Mesmeric revelation
+  -- The facts in the case of M. Valdemar -- The black cat -- The fall of the House
+  of Usher -- Silence: a fable -- The masque of the Red Death -- The cask of Amontillado
+  -- The imp of the perverse -- The island of the Fay -- The assignation -- The pit
+  and the pendulum -- The premature burial -- The domain of Arnheim -- Landor''s cottage
+  -- William Wilson -- The tell-tale heart -- Berenice -- Eleonora.'
+title: The Works of Edgar Allan Poe — Volume 2
+url: http://www.gutenberg.org/ebooks/2148
